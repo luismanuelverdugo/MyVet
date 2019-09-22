@@ -14,5 +14,8 @@ namespace MyVet.Web.Data
         }
 
         public DbSet<Owner> Owners { get; set; }
+
+        //nuget packe manager console
+        //update-database
     }
 }
